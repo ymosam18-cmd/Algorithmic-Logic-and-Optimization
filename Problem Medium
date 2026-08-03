@@ -28,7 +28,7 @@ int main() {
 
     return 0;
 }
-//Day 2
+/Day 2
 #include <iostream>
 #include <vector>
 #include <unordered_map>
